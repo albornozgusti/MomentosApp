@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MomentosApp</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="activity_main_momentos">Momentos</string>
+    <string name="settings">Configuracion</string>
+    <string name="search_hint">Buscar</string>
+    <string name="title_activity_search_results">SearchResultsActivity</string>
+    <string name="title_activity_busqueda">BusquedaActivity</string>
+    <string name="title_activity_preferences">PreferencesActivity</string>
+    <string name="español">españoñ</string>
+    <string name="ingles">Ingles</string>
+    <string name="portugues">portugues</string>
+    <string name="Idioma">idioma</string>
+    <string name="longitud">Longitud</string>
+    <string name="publicar">Publicar</string>
+    <string name="latitud">Latitud</string>
+    <string name="fecha">Fecha</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="opciones">Opciones</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
